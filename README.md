@@ -134,4 +134,4 @@ https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/49/1/ValdesRJ.pdf
 ![image](https://user-images.githubusercontent.com/76060654/108879531-5df5c500-75cf-11eb-86cc-dc70e83a3347.png)
 ![image](https://user-images.githubusercontent.com/76060654/108879850-aad99b80-75cf-11eb-8727-c4a7ab3baac6.png)
 ![image](https://user-images.githubusercontent.com/76060654/108879858-ad3bf580-75cf-11eb-8eb7-0c94f1f5f6c7.png)
-![image](https://user-images.githubusercontent.com/76060654/108879870-b036e600-75cf-11eb-9c4f-9287cd93ff77.png
+![image](https://user-images.githubusercontent.com/76060654/108879870-b036e600-75cf-11eb-9c4f-9287cd93ff77.png)
