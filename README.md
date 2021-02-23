@@ -79,7 +79,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 |  | 5.97 | 0.03 | 199.00|
 |  | 6.73 | 0.02 | 336.50|
  
-
+![image](https://user-images.githubusercontent.com/75762187/108885679-1888c600-75d6-11eb-8a2e-e7f3745a2837.png)
 
 ### PREGUNTAS 
 ### Justifique los errores cometidos en las mediciones
