@@ -68,6 +68,8 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 |  | 1.11 | 0.07 | 15.86|
 |  | 0.55 | 0.07 | 7.86|
 
+![image](https://user-images.githubusercontent.com/75762187/108887104-cc3e8580-75d7-11eb-8469-d9f3fe101047.png)
+
 ##### INDUCTOR DE REACTANCIA
 
 |Leq | [V] | [A] | XC|
